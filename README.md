@@ -1,5 +1,5 @@
-【baiduTopZz3】： 
-百度搜索风云榜资讯爬虫ahk脚本3（论坛地址：http://ahk8.com/thread-6066.html）
+# 【baiduTopZz3】百度搜索风云榜资讯爬虫ahk脚本3
+（论坛地址：http://ahk8.com/thread-6066.html）
 
 【功能】：
 阅读实时热点,
